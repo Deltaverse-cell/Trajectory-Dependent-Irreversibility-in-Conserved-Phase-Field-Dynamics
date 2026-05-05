@@ -1,0 +1,2 @@
+# Trajectory-Dependent-Irreversibility-in-Conserved-Phase-Field-Dynamics
+This repository contains all simulation code, data, and figure-generation scripts supporting the results presented in the associated research paper.  The study introduces an entropy-indexed irreversibility measure to quantify trajectory-dependent microstructural evolution in conserved systems governed by phase-field dynamics.
